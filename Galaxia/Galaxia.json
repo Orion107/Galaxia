@@ -1,0 +1,18 @@
+{
+	"id": "galaxia",
+	"name": "Galaxia", 
+	"author": ["Andromeda"],
+	"description": "Just a cute little mod I'm making! Currently has 7 jokers and an enhancement.", 
+	"prefix": "glx", 
+	"main_file": "Galaxia.lua", 
+	"priority": 115, 
+	"badge_colour": "400080", 
+	"badge_text_colour": "00ffff", 
+	"display_name": "GALAXIA", 
+	"version": "0.0.3~REV2",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.7.*)",
+		"Talisman (>=2.1.*)",
+		"Cryptid (>=0.5.*)",
+]}
